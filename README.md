@@ -9,11 +9,9 @@ BTH is a research prototype, not a medical device.
 
 ## Featured
 
+- [Clinical LLM Safety Lab](https://github.com/yasferaru/clinical-llm-safety-lab): measures how language models fail on clinical safety tasks (emergency triage, dosing, sycophancy under pressure), plus a prompt-injection test on patient notes. v0, in progress: the harness is built, the full evaluation has not been run yet.
 - [GrantScout](https://github.com/yasferaru/GrantScout-showcase): grant discovery and matching for biomedical research labs.
 - [BioRecruit](https://github.com/yasferaru/BioRecruit-showcase): applicant screening where the AI helps read and a human decides, with fairness testing.
-- [IMAT Forge](https://github.com/yasferaru/IMAT-Forge): generates and checks IMAT-style practice questions, with drills and timed mock exams.
-- [IMAT GK Drill](https://github.com/yasferaru/IMAT-GK-Drill): a five-minute daily drill for IMAT general knowledge and logical reasoning.
-- [PeriPet](https://github.com/yasferaru/PeriPet): a periodic-table study game with a virtual pet.
 
 ## Contact
 

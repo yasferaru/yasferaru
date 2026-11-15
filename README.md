@@ -7,6 +7,11 @@ language models fail on clinical tasks.
 
 BTH is a research prototype, not a medical device.
 
+## Featured
+
+- [GrantScout](https://github.com/yasferaru/GrantScout-showcase): grant discovery and matching for biomedical research labs.
+- [BioRecruit](https://github.com/yasferaru/BioRecruit-showcase): applicant screening where the AI helps read and a human decides, with fairness testing.
+
 ## Contact
 
 yasmyna.feraru(at)officialtetelestai.com

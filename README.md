@@ -1,4 +1,4 @@
-# Yasmyna Feraru (Nina)
+# Yasmyna Feraru
 
 Medicine and Computer Engineering student in Italy.
 
